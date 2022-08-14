@@ -1,3 +1,3 @@
-FROM mirrorultroid6/webui99:last3
+FROM mirrorultroid6/maliou88:latest
 
 CMD ["bash","start.sh"]
