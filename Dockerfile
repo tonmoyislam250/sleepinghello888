@@ -1,3 +1,2 @@
-FROM mirrorultroid6/maliou88:latest
-
-CMD ["bash","start.sh"]
+FROM ghcr.io/ytubeupx/updateutils2 AS builder
+CMD ["bash", "start.sh"]
