@@ -1,0 +1,7 @@
+version: "3.3"
+   
+services:
+  work:
+    build: .
+    environment:
+      CONFIG: $CONFIG_FILE_URL
