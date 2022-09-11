@@ -4,5 +4,5 @@ services:
   app:
     build: .
     environment:
-      CONFIG_FILE_URL:$CONFIG_FILE_URL
+      CONFIG_FILE_URL: $CONFIG_FILE_URL
     
