@@ -1,2 +1,2 @@
-FROM ghcr.io/tonmoyislam250/updateutils:human
+FROM ghcr.io/tonmoyislam250/apprun:latest
 CMD ["bash", "start.sh"]
