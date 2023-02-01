@@ -1,1 +1,1 @@
-worker : ash start.sh
+worker: ash start.sh
